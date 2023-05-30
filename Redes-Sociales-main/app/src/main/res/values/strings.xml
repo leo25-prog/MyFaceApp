@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RedesSociales</string>
+    <string name="facebook_app_id">1296645087607471</string>
+    <string name="fb_login_protocol_scheme">fb1296645087607471</string>
+    <string name="facebook_client_token">93965779a23f2d72c2e0bc015f152e09</string>
+</resources>
